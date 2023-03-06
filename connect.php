@@ -1,4 +1,4 @@
-
+// Here creating one connection with mysql//
 <?php
 
 $servername = "localhost";
